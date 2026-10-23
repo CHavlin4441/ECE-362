@@ -6,17 +6,17 @@ My lab work for **ECE 36200: Microprocessor Systems and Interfacing** at Purdue 
 
 | Lab | Topic | What it covers |
 | --- | ----- | -------------- |
-| [Lab 0](./lab-0-intro-CHavlin4441-main) | Introduction | Toolchain setup, building and flashing the board, serial debugging |
-| [Lab 1](./lab-1-gpio-CHavlin4441-main) | GPIO | Configuring pins as inputs and outputs, reading buttons, driving LEDs |
-| [Lab 2](./lab-2-interrupts-CHavlin4441-main) | Interrupts | Handling GPIO events with interrupt service routines instead of polling |
-| [Lab 3](./lab-3-timers-CHavlin4441-main) | Timers | Hardware timers and alarms for periodic and time-based events |
-| [Lab 4](./lab-4-adc-and-dma-CHavlin4441-main) | ADC and DMA | Sampling analog signals and moving data with DMA without CPU involvement |
-| [Lab 5](./lab-5-pwm-CHavlin4441-main) | PWM | Generating pulse-width-modulated signals for brightness and audio output |
-| [Lab 6](./lab-6-spi-CHavlin4441-main) | SPI | Communicating with peripherals and displays over SPI |
-| [Lab 7](./lab-7-uart-CHavlin4441-main) | UART | Serial communication and building a simple text interface |
-| [Lab 8](./lab-8-intro-CHavlin4441-main) | Intro to RISC-V Assembly | Writing and debugging basic RISC-V assembly on the RP2350's Hazard3 cores |
-| [Lab 9](./lab-9-control-flow-CHavlin4441-main) | Control Flow | Branches, loops, and conditionals in assembly |
-| [Lab 10](./lab-10-functions-CHavlin4441-main) | Functions | Calling conventions, the stack, and writing reusable assembly functions |
+| [Lab 0] | Introduction | Toolchain setup, building and flashing the board, serial debugging |
+| [Lab 1] | GPIO | Configuring pins as inputs and outputs, reading buttons, driving LEDs |
+| [Lab 2] | Interrupts | Handling GPIO events with interrupt service routines instead of polling |
+| [Lab 3] | Timers | Hardware timers and alarms for periodic and time-based events |
+| [Lab 4] | ADC and DMA | Sampling analog signals and moving data with DMA without CPU involvement |
+| [Lab 5] | PWM | Generating pulse-width-modulated signals for brightness and audio output |
+| [Lab 6] | SPI | Communicating with peripherals and displays over SPI |
+| [Lab 7] | UART | Serial communication and building a simple text interface |
+| [Lab 8] | Intro to RISC-V Assembly | Writing and debugging basic RISC-V assembly on the RP2350's Hazard3 cores |
+| [Lab 9] | Control Flow | Branches, loops, and conditionals in assembly |
+| [Lab 10] | Functions | Calling conventions, the stack, and writing reusable assembly functions |
 
 Labs 0–7 cover embedded programming in C. Labs 8–10 cover RISC-V assembly.
 
